@@ -7,3 +7,5 @@ The model works by taking a frame from the simulator at an instance and predicti
 The image below will link to a video showing the model in action(the model and server communication is included in the repository):
 
 [![Video](http://img.youtube.com/vi/E0NfMECe-SU/0.jpg)](https://www.youtube.com/watch?v=E0NfMECe-SU&t=100s)
+
+Client-server communication is established utilizing Flask and Socket.io
